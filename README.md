@@ -33,7 +33,7 @@ The model consists of two main parts:
 ### Model Diagram:
 Below is the visual representation of the model structure:
 
-![Model Structure](docs/model_structure.png)
+<img src="docs/model_structure.png" alt="model" width="70"/>
 
 ### Key Contributions:
 - Utilization of both static membership information and dynamic web usage behavior for more accurate predictions.
