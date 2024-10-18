@@ -38,3 +38,7 @@ Below is the visual representation of the model structure:
 
 ### Presentation:
 For more details on the model and data structure, please refer to the [presentation file](docs/AI_8.pdf), which includes an in-depth explanation of the data and model implementation.
+
+### Demonstration
+
+![prediction](docs/prediction.gif)
