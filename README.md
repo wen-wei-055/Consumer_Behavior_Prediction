@@ -5,6 +5,10 @@ This project focuses on predicting consumer purchase behavior based on their bro
 ### Research Objective:
 The aim of this project is to forecast whether a consumer will make a purchase while they are still browsing, helping to allocate limited advertising resources to those most likely to convert.
 
+### Demonstration
+
+<img src="docs/prediction.gif" alt="prediction" width="150"/>
+
 ### Model Structure:
 The model consists of two main parts:
 
@@ -38,7 +42,3 @@ Below is the visual representation of the model structure:
 
 ### Presentation:
 For more details on the model and data structure, please refer to the [presentation file](docs/AI_8.pdf), which includes an in-depth explanation of the data and model implementation.
-
-### Demonstration
-
-![prediction](docs/prediction.gif)
