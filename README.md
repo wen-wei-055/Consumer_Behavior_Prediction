@@ -7,7 +7,7 @@ The aim of this project is to forecast whether a consumer will make a purchase w
 
 ### Demonstration
 
-<img src="docs/prediction.gif" alt="prediction" width="150"/>
+<img src="docs/prediction.gif" alt="prediction" width="400"/>
 
 ### Model Structure:
 The model consists of two main parts:
